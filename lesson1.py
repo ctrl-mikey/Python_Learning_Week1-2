@@ -24,3 +24,5 @@ food = input("What is your favorite food?")
 print ("Your favorite food is", food, "that is yummy")
 #concentration is the process of combining strings with 
 #variables 
+
+# lets do some practice 
